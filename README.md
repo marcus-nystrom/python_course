@@ -11,3 +11,5 @@ Read only versions of the notebooks are available through the jupyter notebook v
 <a href="http://nbviewer.jupyter.org/github/marcus-nystrom/python_course/blob/master/Week2_lecture.ipynb">Week 2</a>
 
 <a href="http://nbviewer.jupyter.org/github/marcus-nystrom/python_course/blob/master/Week3_lecture.ipynb">Week 3</a>
+
+<a href="http://nbviewer.jupyter.org/github/marcus-nystrom/python_course/blob/master/Week4_lecture.ipynb">Week 4</a>
